@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sebastián Torres</h1>
-
-<h3 align="center">
-Full Stack Developer focused on backend, automation and AI solutions
-</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Sebastián+Torres;Full+Stack+Developer;Backend+%2B+AI+Automation;React+•+Node.js+•+Python;Building+modern+tech+solutions" alt="Typing SVG" />
+</h1>
 
 ---
 
